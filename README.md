@@ -16,6 +16,13 @@ A real car parking script for FiveM
 
 ## Download & Installation
 
+## Change Lenguaje
+- Go config.lua line 9
+- en -English
+- es -Español
+- de -Deutsche
+- zh -中文
+
 ### Using YumV
 
 ```
